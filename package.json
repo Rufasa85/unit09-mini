@@ -1,0 +1,22 @@
+{
+  "name": "unit09-mini",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rufasa85/unit09-mini.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rufasa85/unit09-mini/issues"
+  },
+  "homepage": "https://github.com/Rufasa85/unit09-mini#readme",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  }
+}
